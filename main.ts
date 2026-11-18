@@ -1,6 +1,8 @@
 // This entry's picture is the one-page news summary for Wednesday 18 November 2026 —
 // six stories from that day, drawn beside this file as entry.png. The program only
 // copies that image into the grader's output folder, byte for byte. Node 22,
+// The image must stay beside main.ts in the repository, or the copy has nothing to copy.
+
 // standard library only, no network.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
